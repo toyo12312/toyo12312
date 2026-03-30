@@ -22,5 +22,5 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 - ✍️ Sharing backend architecture insights and templates for the community.
 
 ### 📫 How to reach me
-- **Telegram:** [@toyoboy123]
-- **Articles & Templates:** [https://t.me/Nexus_sal_bot]
+- **Telegram:** [@toyoboy123](https://t.me/toyoboy123)
+- **Articles & Templates:** [Nexus Bot Codebase](https://t.me/Nexus_sal_bot)

@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitry Borjanov 👋
+# Hi there, I'm Dmitry Borjanov 
 
 ### Full-Stack Software Engineer | Enterprise Architecture Enthusiast
 

@@ -20,12 +20,16 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 - 🤖 **Nexus Bot / API:** Integrating Headless CMS (Notion API) with robust NestJS backends.
 - ✍️ Sharing backend architecture insights and templates for the community.
 
-### 📊 GitHub Analytics
+### 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toyo12312&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyo12312&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toyo12312/toyo12312/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toyo12312/toyo12312/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toyo12312/toyo12312/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
 
 ### 📝 Latest Articles on Dev.to
 

@@ -2,9 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Запускається кожні 12 годин
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Для ручного запуску
+  workflow_dispatch: 
+
+# ВАЖЛИВО: Даємо скрипту дозвіл на збереження картинки
+permissions:
+  contents: write
 
 jobs:
   build:

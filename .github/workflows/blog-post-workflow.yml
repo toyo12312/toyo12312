@@ -18,5 +18,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # ТУТ ВАЖЛИВО: Заміни 'toyo12312' на свій точний username в dev.to, якщо він інший!
-          feed_list: "https://dev.to/nexus_ecosystem"
+          feed_list: "https://dev.to/feed/nexus_ecosystem"
           

@@ -34,5 +34,7 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 - **Telegram:** [@toyoboy123](https://t.me/toyoboy123)
 - **LinkedIn:** [Dmytro Borjanov](https://www.linkedin.com/in/dmytro-borjanov-0b560b173/)
 
+### 📝 Latest Articles on Dev.to
+
 ---
 ⚡ **Fun Fact:** When I'm not writing code, I'm likely doing 3D modeling in Blender, playing Azir in League of Legends, or working on my fantasy book series *"Син Зради"*.

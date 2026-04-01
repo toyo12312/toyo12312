@@ -30,7 +30,8 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ### 📝 Latest Articles on Dev.to
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Show Me The Code: Nexus Backend Architecture &lpar;Part 2&rpar;](https://dev.to/nexus_ecosystem/show-me-the-code-nexus-backend-architecture-part-2-1of7)
+- [I built an Enterprise-grade LMS backend with NestJS 11 &amp; Notion API &lpar;and I’m sharing the blueprint&rpar;](https://dev.to/nexus_ecosystem/i-built-an-enterprise-grade-lms-backend-with-nestjs-11-notion-api-and-im-sharing-the-blueprint-25ld)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to reach me

@@ -41,7 +41,7 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ### 📫 How to reach me
 
 - **Telegram:** [@toyoboy123](https://t.me/toyoboy123)
-- **LinkedIn:** [Dmytro Borjanov](https://www.linkedin.com/in/dmytro-borjanov-0b560b173/)
+- **LinkedIn:** [Dmytro Borjanov](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B1%D0%BE%D1%80-%D1%8F%D0%BD%D0%BE%D0%B2-0b560b173/?locale=en-US)
 
 
 

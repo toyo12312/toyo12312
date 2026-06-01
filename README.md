@@ -34,6 +34,7 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ### 📝 Latest Articles on Dev.to
 
 <!-- BLOG-POST-LIST:START -->
+- [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-4kla)
 - [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-21lo)
 - [Why I Ditched AI Prompting for Local Snippets &lpar;and reached 400+ installs&rpar;](https://dev.to/nexus_ecosystem/why-i-ditched-ai-prompting-for-local-snippets-and-reached-270-installs-5753)
 - [Show Me The Code: Nexus Backend Architecture &lpar;Part 2&rpar;](https://dev.to/nexus_ecosystem/show-me-the-code-nexus-backend-architecture-part-2-1of7)

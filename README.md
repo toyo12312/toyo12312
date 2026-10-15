@@ -14,9 +14,8 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Featured Projects
@@ -38,11 +37,10 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 
 ### 🚀 What I'm currently working on
 
-- 🏗️ **Lumina Staff Suite:** Modern, scalable LMS platform with clean modular architecture
-- 🛍️ **Shop API:** Production-ready e-commerce backend (14 modules, 31 DTOs)
-- 🛡️ **Anti-Bot & Security:** Multi-layer backend validation and dynamic math CAPTCHA
-- 🤖 **Nexus Bot / API:** Integrating Headless CMS (Notion API) with NestJS
-- ✍️ Sharing backend architecture insights and templates
+- 🛍️ **Shop API:** Adding wishlist, promo codes, and AI assistant (14 modules, 31 DTOs)
+- 🏗️ **Astro Frontend:** Building a modern e-commerce frontend with Astro + Tailwind
+- 🛡️ **Anti-Bot & Security:** Multi-layer backend validation for NestJS APIs
+- ✍️ **Technical Writing:** Sharing architecture insights on Dev.to
 
 ### 🐍 My Contribution Graph
 
@@ -64,13 +62,12 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 
 ### 📝 Latest Articles on Dev.to
 
-<!-- BLOG-POST-LIST:START -->
+
 - [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-4kla)
 - [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-21lo)
 - [Why I Ditched AI Prompting for Local Snippets &lpar;and reached 400+ installs&rpar;](https://dev.to/nexus_ecosystem/why-i-ditched-ai-prompting-for-local-snippets-and-reached-270-installs-5753)
 - [Show Me The Code: Nexus Backend Architecture &lpar;Part 2&rpar;](https://dev.to/nexus_ecosystem/show-me-the-code-nexus-backend-architecture-part-2-1of7)
 - [I built an Enterprise-grade LMS backend with NestJS 11 &amp; Notion API &lpar;and I’m sharing the blueprint&rpar;](https://dev.to/nexus_ecosystem/i-built-an-enterprise-grade-lms-backend-with-nestjs-11-notion-api-and-im-sharing-the-blueprint-25ld)
-<!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to reach me
 

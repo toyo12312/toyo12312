@@ -7,6 +7,8 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ### 🛠 Tech Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,7 +18,8 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 
 ### 🚀 What I'm currently working on
 
-- 🏗️ **Lumina Staff Suite:** A modern, scalable LMS platform with a clean modular architecture.
+- 🏗️ **Lumina Staff Suite:** A modern, scalable LMS platform with a clean modular architecture and multi-language support.
+- 🛡️ **Anti-Bot & Security:** Implementing multi-layer backend validation and localized dynamic math CAPTCHA systems to neutralize spam scripts.
 - 🤖 **Nexus Bot / API:** Integrating Headless CMS (Notion API) with robust NestJS backends.
 - ✍️ Sharing backend architecture insights and templates for the community.
 
@@ -46,7 +49,5 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 - **Telegram:** [@toyoboy123](https://t.me/toyoboy123)
 - **LinkedIn:** [Dmytro Borjanov](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B1%D0%BE%D1%80-%D1%8F%D0%BD%D0%BE%D0%B2-0b560b173/?locale=en-US)
 
-
-
 ---
-⚡ **Fun Fact:** When I'm not writing code, I'm likely doing 3D modeling in Blender, playing Azir in League of Legends, or working on my fantasy book series *"Син Зради"*.
+⚡ **Fun Fact:** When I'm not writing code, I'm likely doing 3D modeling in Blender, playing Azir in League of Legends, or working on my fantasy book series *"Son of Betrayal"*.

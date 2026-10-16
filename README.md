@@ -1,10 +1,10 @@
-### Hi there, I'm Dmitry Borjanov 👋
+### Hi there, I'm Dmitry 
 
 **Full-Stack Engineer | NestJS · React · DDD | Building Production-Ready Systems**
 
 I specialize in building scalable, maintainable, and fast web applications. Currently focused on crafting robust backend architectures with NestJS and modern, interactive frontends with React/Next.js based in Chernivtsi, Ukraine.
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -18,31 +18,31 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛍️ Shop API — E-Commerce Backend
+####  Shop API — E-Commerce Backend
 Production-ready e-commerce backend with Guest checkout, WayForPay, Nova Poshta (TTN), Redis, and 31 DTOs.  
 **Stack:** NestJS 11, TypeORM, PostgreSQL, Redis, Docker  
-🔗 **[Live API Docs](https://shop-backend-nestjs-git-472968742383.europe-west3.run.app/api/docs)**
+ **[Live API Docs](https://shop-backend-nestjs-git-472968742383.europe-west3.run.app/api/docs)**
 
-#### 📚 Nexus LMS — Learning Platform
+#### Nexus LMS — Learning Platform
 Enterprise LMS with Notion API integration, course/module/lesson hierarchy, and grades.  
 **Stack:** NestJS 11, PostgreSQL, Notion API  
-🔗 **[Live API Docs](https://swagger-api-git-553607641956.europe-west3.run.app/api/docs#/)**
+ **[Live API Docs](https://swagger-api-git-553607641956.europe-west3.run.app/api/docs#/)**
 
-#### 🏗️ Lumina Staff Suite — HRM Dashboard
+#### Lumina Staff Suite — HRM Dashboard
 Scalable HRM system with Clean Architecture, multi-language support, and JWT auth.  
 **Stack:** React, TypeScript, Tailwind CSS, NestJS  
-🔗 **[Live Demo](https://lumina-staff-suite.netlify.app/dashboard)**
+ **[Live Demo](https://lumina-staff-suite.netlify.app/dashboard)**
 
-### 🚀 What I'm currently working on
+### What I'm currently working on
 
-- 🛍️ **Shop API:** Adding wishlist, promo codes, and AI assistant (14 modules, 31 DTOs)
-- 🏗️ **Astro Frontend:** Building a modern e-commerce frontend with Astro + Tailwind
-- 🛡️ **Anti-Bot & Security:** Multi-layer backend validation for NestJS APIs
-- ✍️ **Technical Writing:** Sharing architecture insights on Dev.to
+- **Shop API:** Adding wishlist, promo codes, and AI assistant (14 modules, 31 DTOs)
+- **Astro Frontend:** Building a modern e-commerce frontend with Astro + Tailwind
+- **Anti-Bot & Security:** Multi-layer backend validation for NestJS APIs
+- **Technical Writing:** Sharing architecture insights on Dev.to
 
-### 🐍 My Contribution Graph
+### My Contribution Graph
 
 <div align="center">
   <picture>
@@ -52,15 +52,15 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
   </picture>
 </div>
 
-### 🏆 Achievements
+### Achievements
 
-- 📦 **400+ installs** of [Lumina Lite](https://marketplace.visualstudio.com/items?itemName=luminalabs.lumina-lite) VS Code extension
-- ⭐ **11 stars** on [NestJS Clean Architecture Boilerplate](https://github.com/toyo12312/nestjs-clean-architecture-boilerplate)
-- 📝 **5+ articles** on [Dev.to](https://dev.to/nexus_ecosystem) with **100K+ views**
-- 🛡️ Survived **27,000 API attacks** in 24 hours
-- 🏗️ **3 production-ready backends** built
+- **400+ installs** of [Lumina Lite](https://marketplace.visualstudio.com/items?itemName=luminalabs.lumina-lite) VS Code extension
+- **11 stars** on [NestJS Clean Architecture Boilerplate](https://github.com/toyo12312/nestjs-clean-architecture-boilerplate)
+- **5+ articles** on [Dev.to](https://dev.to/nexus_ecosystem) with **10K+ views**
+- Survived **27,000 API attacks** in 24 hours
+- **3 production-ready backends** built
 
-### 📝 Latest Articles on Dev.to
+### Latest Articles on Dev.to
 
 
 - [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-4kla)
@@ -69,7 +69,7 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 - [Show Me The Code: Nexus Backend Architecture &lpar;Part 2&rpar;](https://dev.to/nexus_ecosystem/show-me-the-code-nexus-backend-architecture-part-2-1of7)
 - [I built an Enterprise-grade LMS backend with NestJS 11 &amp; Notion API &lpar;and I’m sharing the blueprint&rpar;](https://dev.to/nexus_ecosystem/i-built-an-enterprise-grade-lms-backend-with-nestjs-11-notion-api-and-im-sharing-the-blueprint-25ld)
 
-### 📫 How to reach me
+### How to reach me
 
 - **Telegram:** [@toyoboy123](https://t.me/toyoboy123)
 - **Portfolio:** [dmytriportfolio.netlify.app](https://dmytriportfolio.netlify.app)
@@ -78,12 +78,12 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 - **GitHub:** [@toyo12312](https://github.com/toyo12312)
 
 ---
-⚡ **Fun Fact:** When I'm not writing code, I'm likely doing 3D modeling in Blender, playing Azir in League of Legends, or working on my fantasy book series *"Son of Betrayal"*.
+ **Fun Fact:** When I'm not writing code, I'm likely doing 3D modeling in Blender, playing Azir in League of Legends, or working on my fantasy book series *"Son of Betrayal"*.
 
 ---
-## 💼 Open to
+## Open to
 
-- 🛍️ **E-commerce backends** (NestJS + WayForPay + Nova Poshta)
-- 🏗️ **Scalable system architecture** (DDD, CQRS, Clean Architecture)
-- 🤝 **Collaboration** on NestJS/React projects
-- 📝 **Technical writing** and architecture consulting
+- **E-commerce backends** (NestJS + WayForPay + Nova Poshta)
+- **Scalable system architecture** (DDD, CQRS, Clean Architecture)
+- **Collaboration** on NestJS/React projects
+- **Technical writing** and architecture consulting

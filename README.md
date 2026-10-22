@@ -20,24 +20,24 @@ I specialize in building scalable, maintainable, and fast web applications. Curr
 
 ### Featured Projects
 
-####  Shop API — E-Commerce Backend
+#### Shop API — E-Commerce Backend
 Production-ready e-commerce backend with Guest checkout, WayForPay, Nova Poshta (TTN), Redis, and 31 DTOs.  
-**Stack:** NestJS 11, TypeORM, PostgreSQL, Redis, Docker  
- **[Live API Docs](https://shop-backend-nestjs-git-472968742383.europe-west3.run.app/api/docs)**
+**Stack:** NestJS 12, TypeORM, PostgreSQL, Redis, Docker, Scalar  
+**[Live API Docs (Scalar)](https://shop-backend-nestjs-git-472968742383.europe-west3.run.app/api/docs)**
 
 #### Nexus LMS — Learning Platform
 Enterprise LMS with Notion API integration, course/module/lesson hierarchy, and grades.  
-**Stack:** NestJS 11, PostgreSQL, Notion API  
- **[Live API Docs](https://swagger-api-git-553607641956.europe-west3.run.app/api/docs#/)**
+**Stack:** NestJS 12, PostgreSQL, Notion API, Scalar  
+**[Live API Docs](https://swagger-api-git-553607641956.europe-west3.run.app/api/docs#/)**
 
 #### Lumina Staff Suite — HRM Dashboard
 Scalable HRM system with Clean Architecture, multi-language support, and JWT auth.  
 **Stack:** React, TypeScript, Tailwind CSS, NestJS  
- **[Live Demo](https://lumina-staff-suite.netlify.app/dashboard)**
+**[Live Demo](https://lumina-staff-suite.netlify.app/dashboard)**
 
 ### What I'm currently working on
 
-- **Shop API:** Adding wishlist, promo codes, and AI assistant (14 modules, 31 DTOs)
+- **Shop API:** Upgrading infrastructure to NestJS 12, migrating API documentation to Scalar, and adding wishlist, promo codes, and AI assistant (14 modules, 31 DTOs)
 - **Astro Frontend:** Building a modern e-commerce frontend with Astro + Tailwind
 - **Anti-Bot & Security:** Multi-layer backend validation for NestJS APIs
 - **Technical Writing:** Sharing architecture insights on Dev.to
@@ -62,12 +62,12 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 
 ### Latest Articles on Dev.to
 
-
 - [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-4kla)
-- [I went viral. Then a troll hit my NestJS API 27,000 times. Here is how I survived.](https://dev.to/nexus_ecosystem/i-went-viral-then-a-troll-hit-my-nestjs-api-27000-times-here-is-how-i-survived-21lo)
 - [Why I Ditched AI Prompting for Local Snippets &lpar;and reached 400+ installs&rpar;](https://dev.to/nexus_ecosystem/why-i-ditched-ai-prompting-for-local-snippets-and-reached-270-installs-5753)
 - [Show Me The Code: Nexus Backend Architecture &lpar;Part 2&rpar;](https://dev.to/nexus_ecosystem/show-me-the-code-nexus-backend-architecture-part-2-1of7)
 - [I built an Enterprise-grade LMS backend with NestJS 11 &amp; Notion API &lpar;and I’m sharing the blueprint&rpar;](https://dev.to/nexus_ecosystem/i-built-an-enterprise-grade-lms-backend-with-nestjs-11-notion-api-and-im-sharing-the-blueprint-25ld)
+
+*(Note: Articles listed dynamically via GitHub Actions)*
 
 ### How to reach me
 
@@ -83,7 +83,7 @@ Scalable HRM system with Clean Architecture, multi-language support, and JWT aut
 ---
 ## Open to
 
-- **E-commerce backends** (NestJS + WayForPay + Nova Poshta)
+- **E-commerce backends** (NestJS 12 + WayForPay + Nova Poshta)
 - **Scalable system architecture** (DDD, CQRS, Clean Architecture)
 - **Collaboration** on NestJS/React projects
 - **Technical writing** and architecture consulting
